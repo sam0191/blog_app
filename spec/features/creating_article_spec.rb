@@ -1,4 +1,4 @@
-require 'rails_helper'
+require 'rails_helper' 
 
 RSpec.feature "Creating Articles" do 
 
@@ -17,7 +17,7 @@ RSpec.feature "Creating Articles" do
 
 		expect(page).to have_content("Article has been created")
 		expect(page.current_path).to eq(articles_path)
-		expect(page).to have_content("Created by #{@john.email}")
+		expect(page).to have_content("Created by: #{@john.email}")
 	end
 
 	scenario "A user fails to create a new article" do
