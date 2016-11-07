@@ -1,0 +1,24 @@
+0000000000000000000000000000000000000000 c0674603b9e5c09bcc4e286e4033828fe99dfb42 sam0191 <samer.abunuwara@gmail.com> 1475520648 +0300	commit (initial): Create the blog app
+c0674603b9e5c09bcc4e286e4033828fe99dfb42 fdfa6df1fbec7dfbb78379da6c7fed36aac9252a sam0191 <samer.abunuwara@gmail.com> 1475521849 +0300	commit: Setup Rspec and Capybara
+fdfa6df1fbec7dfbb78379da6c7fed36aac9252a c7d8916b64a7ba1f981f2fab3f9757812946669b sam0191 <samer.abunuwara@gmail.com> 1476209057 +0300	merge article-feature-success: Fast-forward
+c7d8916b64a7ba1f981f2fab3f9757812946669b 41ab7c98c70939ed7803de7ae30fa00608623508 sam0191 <samer.abunuwara@gmail.com> 1476212118 +0300	merge adding-guard: Fast-forward
+41ab7c98c70939ed7803de7ae30fa00608623508 5a5c6d27a006b301331b2d04d2e16116698a9256 sam0191 <samer.abunuwara@gmail.com> 1476212682 +0300	commit: Update guardfile
+5a5c6d27a006b301331b2d04d2e16116698a9256 e4f260665ae56e3f1c1d200cdbb5b78dbc67da16 sam0191 <samer.abunuwara@gmail.com> 1476215148 +0300	merge article-validation: Fast-forward
+e4f260665ae56e3f1c1d200cdbb5b78dbc67da16 ea342aeac8c61fa1dd5881690b30add29a96b341 sam0191 <samer.abunuwara@gmail.com> 1476217670 +0300	commit: modify create action
+ea342aeac8c61fa1dd5881690b30add29a96b341 a3a7db42dedd0eee91cba3dac2fb43c37937f28d sam0191 <samer.abunuwara@gmail.com> 1476223304 +0300	merge listing-articles: Fast-forward
+a3a7db42dedd0eee91cba3dac2fb43c37937f28d 2b335610a61c11f22a67318f8c7b969872c8030e sam0191 <samer.abunuwara@gmail.com> 1476268322 +0300	merge showing-article: Fast-forward
+2b335610a61c11f22a67318f8c7b969872c8030e 6368c8b40970f45411e361f1762cc3c2c299f3d0 sam0191 <samer.abunuwara@gmail.com> 1476269819 +0300	commit: modified guard file
+6368c8b40970f45411e361f1762cc3c2c299f3d0 1fd3f171965697266f33995d9390c71aceaf7db4 sam0191 <samer.abunuwara@gmail.com> 1476273127 +0300	merge editing-article: Fast-forward
+1fd3f171965697266f33995d9390c71aceaf7db4 f112450f5f74f444af609c3064a30bd5323e55ee sam0191 <samer.abunuwara@gmail.com> 1476301543 +0300	merge delete-article: Fast-forward
+f112450f5f74f444af609c3064a30bd5323e55ee 0d0715f6bd91b7a06581512197332fb8aca00974 sam0191 <samer.abunuwara@gmail.com> 1476302110 +0300	commit: Refactor code
+0d0715f6bd91b7a06581512197332fb8aca00974 ee1566de072d0b371b30fb6bb69348ee8d22592b sam0191 <samer.abunuwara@gmail.com> 1476536738 +0300	merge setup-devise: Fast-forward
+ee1566de072d0b371b30fb6bb69348ee8d22592b e351b44d25c3d1f8b10c48d75cefd4991405aff5 sam0191 <samer.abunuwara@gmail.com> 1476537014 +0300	commit: Create user model
+e351b44d25c3d1f8b10c48d75cefd4991405aff5 9788f98fc6510724b0451eb2c32f44c9da3a0e18 sam0191 <samer.abunuwara@gmail.com> 1476537665 +0300	merge user-signup: Fast-forward
+9788f98fc6510724b0451eb2c32f44c9da3a0e18 b4ab17406d0f9e28eaceb09c0ad03926a3256322 sam0191 <samer.abunuwara@gmail.com> 1476538744 +0300	commit: Style devise sign up view
+b4ab17406d0f9e28eaceb09c0ad03926a3256322 0468e218f01355d8b542e2e58d051daa888a0074 sam0191 <samer.abunuwara@gmail.com> 1477779633 +0300	merge user-signin: Fast-forward
+0468e218f01355d8b542e2e58d051daa888a0074 4da6618f468d65de011a2386a103e4800a8be414 sam0191 <samer.abunuwara@gmail.com> 1477833237 +0200	merge devise-messages: Fast-forward
+4da6618f468d65de011a2386a103e4800a8be414 f8656e86fb59ce4093392d23330cf852a76f564f sam0191 <samer.abunuwara@gmail.com> 1477837377 +0200	merge user-signout: Fast-forward
+f8656e86fb59ce4093392d23330cf852a76f564f 4c28235ef35bd3371b81b75eecad6d6eb8692031 sam0191 <samer.abunuwara@gmail.com> 1478207600 +0200	merge link-articles-to-users: Fast-forward
+4c28235ef35bd3371b81b75eecad6d6eb8692031 c0498387d3ab4ca78c2fd3f2d0447e6138ae5e18 sam0191 <samer.abunuwara@gmail.com> 1478256304 +0200	commit: Update custom css for author
+c0498387d3ab4ca78c2fd3f2d0447e6138ae5e18 72b70115eb66c51cb167e1b41fa9992a4067d4c5 sam0191 <samer.abunuwara@gmail.com> 1478277018 +0200	merge restrict-access: Fast-forward
+72b70115eb66c51cb167e1b41fa9992a4067d4c5 e5e4eeb2e83f1a1cb342e30922a918fe6610f3bb sam0191 <samer.abunuwara@gmail.com> 1478348899 +0200	merge controller-access-control: Fast-forward
